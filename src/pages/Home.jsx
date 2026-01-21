@@ -23,7 +23,7 @@ function primaryExternal(gym) {
   return google || gym.externalRatings[0];
 }
 
-// If you already have a Chip component, you can delete this and import yours instead.
+
 function Chip({ active, onClick, children }) {
   return (
     <button
@@ -82,7 +82,7 @@ export default function Home() {
   return (
     <section className="stack">
       <div className="hero">
-        <span className="kicker">Zine Edition</span>
+        
         <p className="muted" id="how">
           CragScore is climber-specific (setting, crowding, training). External ratings are context only.
         </p>
