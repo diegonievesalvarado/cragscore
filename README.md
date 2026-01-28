@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #  CragScore
 
-CragScore is a front-end web application designed to help climbers discover and explore climbing gyms through clean page layout, structured content, and an intuitive user interface.
+CragScore is a front-end web application catered to the climbing community. It is meant to help climbers discover, explore, and rate climbing gyms no matter where you are in the world.
 
 This project focuses on **page layout, visual hierarchy, and responsive design**, using a card-based layout to present gym information clearly across devices.
 
